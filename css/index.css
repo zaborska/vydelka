@@ -61,7 +61,7 @@ header .menu li a:hover {
 }
 
 header .banner {
-    background-image: url(../img/);
+    background-image: url(../img/tesla.jpg);
     min-height: 500px;
     background-size: cover;
     background-position: center;
